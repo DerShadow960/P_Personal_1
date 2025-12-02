@@ -19,4 +19,14 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Proeycto Personal
 Creación de una pagina web, y ver forma de implementar tecnologias mas avanzadas 
-    
+    Una aplicación web donde el usuario puede:
+    Registrar ingresos y gastos
+    Ver gráficas en tiempo real
+    Crear presupuestos por categoría
+    Analizar sus gastos 
+    Recibir alertas cuando se acerca al límite
+    Ver predicciones de gastos futuros (IA opcional)
+    Exportar datos (PDF o CSV)
+    Tener un panel tipo dashboard muy profesional
+
+    PROXIMO A AGREGAR MAS...
